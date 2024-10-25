@@ -63,4 +63,11 @@
   .botões__item {
   margin: 0 0.5em;
   }
-  
+.botões__ancora
+{  
+  background-color: var(--laranja);
+  padding: 1em;
+  color: var(--branco);
+  font-weight: 700;
+  text-decoration: none;
+}  
